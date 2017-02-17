@@ -1,5 +1,5 @@
 # lninstaller
-A awesome alternative to ln command,aimed to backup your file more easily.
+A awesome alternative to ln command,aimed to backup your files more easily.
 
 # Why
 Very often you don't want to backup whole directory as it has big size.So,
